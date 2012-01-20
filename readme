@@ -1,0 +1,5 @@
+A simple Bracket Generating Application to test small composable objects in Ruby in a simple problem domain.
+
+To Use:
+
+./bin/bracketeer A B C D
